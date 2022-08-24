@@ -30,14 +30,14 @@
 
 ---
 
-## Live Demo of Discord Clone 🔥
+## Live Demo of Win 11 Remake 🔥
 
 ![Website Up](https://img.shields.io/website?url=https://github.com/prathvi20/windows-11-html&logo=github&style=flat-square) <br>
 
 View the app live, share the happiness [https://prathvi20.github.io/windows-11-html/](https://prathvi20.github.io/windows-11-html/) <br>
 **⭐ this project, if you found it helpful**
 
-## Windows 11 Remake Working 🎮
+## Win 11 Remake Working 🎮
 - Firstly it sets the background to an Video and plays it (video.webm)
 - The video stops after playing, It gives a Live wallpaper effect on startup
 - The thing you can noice is you have got a taskbar. If you click on it, It will send a Message on console (Clicked)
